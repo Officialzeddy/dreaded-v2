@@ -1,4 +1,4 @@
- ***DREADED-V2***
+It's zeddy Al bot
 
 <div align="center">
 
