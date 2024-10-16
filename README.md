@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| [![Fortunatus Mokaya](https://github.com/Fortunatusmokaya.png?lenght=50width=50)](https://github.com/Fortunatusmokaya)|
+| [![zedo ](https://github.com/Fortunatusmokaya.png?t=50width=50)](https://github.com/Fortunatusmokaya)|
 |----|
 
 
