@@ -93,7 +93,7 @@ Modifying the bot structure is at your own risk. We won't offer technical suppor
 
 ## License
 
-[MIT License](https://github.com/Fortunatusmokaya/dreaded-v2/blob/main/LICENSE)
+[MIT License](https://github.com/Fortune zedo/zedo-Al/blob/main/LICENSE)
 
 Copyright (c) 2024 Zedo-Al
 
